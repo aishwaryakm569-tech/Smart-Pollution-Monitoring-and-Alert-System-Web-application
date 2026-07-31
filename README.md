@@ -1,0 +1,2 @@
+# Smart-Pollution-Monitoring-and-Alert-System-Web-application
+This project is a Streamlit-based web application developed to monitor pollution levels by location. It provides users with information about Air Quality Index (AQI) and water quality, helping them better understand environmental conditions. The application features a simple and user-friendly interface for quick access to pollution data.
